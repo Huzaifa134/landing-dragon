@@ -1,0 +1,33 @@
+/* ----------Hero Section-------- */
+.hero-p {
+  color: #8e8e8e;
+
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.hero-laptop {
+  width: 455.684px;
+  height: 298.782px;
+  flex-shrink: 0;
+  aspect-ratio: 455.68/298.78;
+}
+
+.gradient-text {
+  background: linear-gradient(91deg, #ec20fe 0%, #32d4fb 75.33%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-bg {
+  background: linear-gradient(91deg, #ec20fe 0%, #32d4fb 75.33%);
+}
+
+.gradient-border {
+  /* border: 5px solid transparent; Transparent border */
+  /* border-image: linear-gradient(91deg, #ec20fe 0%, #32d4fb 75.33%);
+  border-image-slice: 1; */
+}
